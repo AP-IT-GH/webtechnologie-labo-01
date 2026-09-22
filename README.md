@@ -8,10 +8,12 @@
 
 ## Oefeningen
 
-1. [title-paragraph](title-paragraph/)
-2. [headings](headings/)
-3. [markup](markup/)
-4. [quote](quote/)
-5. [abbreviation](abbreviation/)
-6. [address](address/)
+1. [title-paragraph](title-paragraph/) - titels en paragrafen
+2. [headings](headings/) - de zes titelniveaus
+3. [markup](markup/) - nadruk, belang en bovenschrift
+4. [quote](quote/) - een citaat in lopende tekst
+5. [abbreviation](abbreviation/) - afkortingen verklaren
+6. [address](address/) - contactgegevens van de auteur
+
+In elke map vind je een `README.md` met de opgave en een `opgave.png` met het verwachte resultaat.
 
